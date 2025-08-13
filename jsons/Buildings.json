@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Bananas Museum",
+		"replaces": "Museum",
+		"uniqueTo": "Monkey Nation",
+		"culture": 5,
+		"food": 3,
+		"happiness": 2,
+		"specialistSlots": {"Artist": 2},
+		"requiredBuilding": "Opera House",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredTech": "Archaeology",
+		"uniques": ["[+1 Culture] from [Bananas] tiles [in this city]","Destroyed when the city is captured"]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "Bananas Bank",
+		"uniqueTo": "Monkey Nation",
+		"food": 3,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"cost": 40,
+		"requiredNearbyImprovedResources": ["Bananas"],
+		"requiredTech": "Pottery"
 	}
 ]
