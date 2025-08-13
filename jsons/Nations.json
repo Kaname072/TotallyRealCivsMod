@@ -3,7 +3,7 @@
 		"name": "Monkey Nation",
 		"leaderName": "Caesar",
 		"adjective": ["monkeys"],
-		"startBias": ["Snow"],
+		"startBias": ["Jungle"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "* monkey sounds *",
@@ -27,9 +27,9 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"outerColor": [255,255,0],
+		"innerColor": [0,92,22],
+		"uniqueName": "1 Gorilla vs 100 Man",
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
