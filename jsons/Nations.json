@@ -3,7 +3,7 @@
 		"name": "Monkey Nation",
 		"leaderName": "Caesar",
 		"adjective": ["monkeys"],
-		"startBias": ["Jungle"],
+		"startBias": ["Jungle","Bananas"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "* monkey sounds *",
@@ -30,6 +30,9 @@
 		"outerColor": [0,92,22],
 		"innerColor": [255,255,0],
 		"uniqueName": "1 Gorilla vs 100 Man",
+		"uniques": ["Cannot build [Farm] tiles",
+		"[+2 Food, +2 Happiness, +2 Gold] from [Bananas] tiles",
+		"[-10]% [Science] [in all cities]"],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
