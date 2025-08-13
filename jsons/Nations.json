@@ -30,9 +30,9 @@
 		"outerColor": [0,92,22],
 		"innerColor": [255,255,0],
 		"uniqueName": "1 Gorilla vs 100 Man",
-		"uniques": ["[+2 Food, +2 Gold] from [Bananas] tiles [in this city]",
+		"uniques": ["[+5 Food] from [Bananas] tiles [in this city]",
 			"[+5 Happiness] from [Jungle] tiles [in this city]",
-			"Double movement in [Jungle] <for [All] units>",
+			"[+200]% Strength <when fighting units from a Civilization with more Cities than you>",
 		"[+50]% [Food] [in all cities] <during a Golden Age>"]
 		"cities": ["Jungle Capital","Blueberry","Apple","Watermelon","Bananas","Orange","Strawberry","Ananas","Pepper",
 		"Mango","Coconut","Melon","Pineapple","Popcorn"]
