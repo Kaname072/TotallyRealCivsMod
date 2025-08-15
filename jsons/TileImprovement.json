@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Aquatic City Center",
+    "replaces": "City center",
+    "uniqueTo": "Mermaid",
+		"terrainsCanBeBuiltOn": ["Water"],
+		"uniques": ["Ensures a minimum tile yield of [+2 Food, +1 Production]",
+            "Unpillagable", "Irremovable", "Unbuildable", "Excluded from map editor"],
+        "civilopediaText": [
+			{"text":"Marks the center of a city"},
+			{"text":"Appearance changes with the technological era of the owning civilization"}]
+  }
+]
+	
