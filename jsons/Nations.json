@@ -73,7 +73,7 @@
 			"Comment [Can enter in Water tiles in inicial game, like Polynesia]",
 			"[+1 Food, +2 Culture] from [Coast] tiles [in this city]",
 			"[+2 Food, +3 Culture] from [Ocean] tiles [in this city]",
-			"[-40]% [Food, Production] [in all non-coastal cities]",
+			"[+30]% [Production] [in all coastal cities]",
 			"[+2] Movement <for [Embarked] units>"],
 		"cities": ["Atlantis"]
 	}
