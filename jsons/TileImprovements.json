@@ -1,14 +1,13 @@
 [
   {
-    "name": "Aquatic City center",
-    "replaces": "City center",
+    "name": "Plancton Farm",
+    "replaces": "Farm",
     "uniqueTo": "Mermaid",
-		"terrainsCanBeBuiltOn": ["Water"],
-		"uniques": ["Ensures a minimum tile yield of [+1 Food, +1 Gold]",
-            "Unpillagable", "Irremovable", "Unbuildable", "Excluded from map editor"],
+	  "food": 2,
+		"terrainsCanBeBuiltOn": ["Grassland", "Plains"],
         "civilopediaText": [
-			{"text":"Marks the center of a city"},
-			{"text":"Appearance changes with the technological era of the owning civilization"}]
+			{"text":"favorite food of mermaids"},
+			{"text":"The marmaid cannot can make farm like humans..."}]
   }
 ]
 	
