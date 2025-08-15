@@ -39,37 +39,41 @@
 	},
 	{
 		"name": "Mermaid",
-		"leaderName": "Saphire",
+		"leaderName": "Saphire Queen",
 		"adjective": ["mermaids"],
 		"startBias": ["Ocean"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "*monkey sounds*",
-		"startIntroPart2": "Eh... wait... i we translate this... he said: banana! banana! banana! banana!",
+		"startIntroPart1": "Finally! sand! land! finnaly we can walkind in grass! hahaha! this is perfect!",
+		"startIntroPart2": "Now, we are become great! like in ocean, like in land. Nobody can stop the Queen of Mermaids!",
 		
 		"declaringWar": "*Aggressive monkey sounds!!*",
-		"attacked": "*Loud monkey sounds*",
-		"defeated": "Imposible! 100 man winning us? that is shame!!",
-		"introduction": "*Pacific monkey sounds*",
+		"attacked": "Thats is not legal!",
+		"defeated": "Run! Run! Run to Ocean!!",
+		"introduction": "Oh, humans?",
 		
-		"neutralHello": "uh uh ah oh ah",
-		"neutralLetsHearIt": ["*confused monkey*"],
-		"neutralNo": ["AAAAH! AAAH! (No)"],
-		"neutralYes": ["Eeh! eeh! (Yes)"],
+		"neutralHello": "You?",
+		"neutralLetsHearIt": ["Hey!?"],
+		"neutralNo": ["Nope!"],
+		"neutralYes": ["Of course, yes"],
 
-		"hateHello": "*angry monkey sounds*",
+		"hateHello": "Ah... is you.",
 		"hateLetsHearIt": ["uh?"],
-		"hateNo": ["GRRR! (no)"],
-		"hateYes": ["oh! (yes)"],
+		"hateNo": ["NO!"],
+		"hateYes": ["Ok."],
 		
-		"afterPeace": "uh ah ah oh! (thank you)",
-		"tradeRequest": "ah uh aoh ah ah oh? (can accept this?)",
+		"afterPeace": "This is just begging! hahaha",
+		"tradeRequest": "I hate this... eh... you want commerce?",
 
 		"outerColor": [0,0,220],
 		"innerColor": [0,0,255],
 		"uniqueName": "Ocean Queen",
-		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
-		"Enables [All] units to enter ocean tiles <starting from the [Ancient era]>"]
-		"cities": ["Atlântida"]
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]> <hidden from users>",
+		"Enables [All] units to enter ocean tiles <starting from the [Ancient era]> <hidden from users>",
+		"Comment [Can enter in Water tiles in inicial game, like Polynesia]",
+		"[+2 Food] from [Cost] tiles [in this city]",
+		"[+4 Food] from [Ocean] tiles [in this city",
+		"[+2] Movement <for [Embarked] units>",]
+		"cities": ["Atlantis"]
 	}
 ]
