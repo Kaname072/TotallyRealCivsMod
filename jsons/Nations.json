@@ -69,11 +69,12 @@
 		"innerColor": [0,0,255],
 		"uniqueName": "Ocean Queen",
 		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]> <hidden from users>",
-		"Enables [All] units to enter ocean tiles <starting from the [Ancient era]> <hidden from users>",
-		"Comment [Can enter in Water tiles in inicial game, like Polynesia]",
-		"[+2 Food] from [Cost] tiles [in this city]",
-		"[+4 Food] from [Ocean] tiles [in this city",
-		"[+2] Movement <for [Embarked] units>",]
+			"Enables [All] units to enter ocean tiles <starting from the [Ancient era]> <hidden from users>",
+			"Comment [Can enter in Water tiles in inicial game, like Polynesia]",
+			"[+1 Food, +2 Culture] from [Coast] tiles [in this city]",
+			"[+2 Food, + 3 Culture] from [Ocean] tiles [in this city]",
+			"[-44]% [Food, Production] [in all non-coastal cities]",
+			"[+2] Movement <for [Embarked] units>"],
 		"cities": ["Atlantis"]
 	}
 ]
