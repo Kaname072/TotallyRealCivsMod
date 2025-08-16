@@ -53,6 +53,13 @@ UnitIcons/Mermaid Worker
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Mermaid Warrior
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Bananas Bank
   rotate: false
   xy: 0, 200
