@@ -41,13 +41,13 @@
 		"name": "Mermaid",
 		"leaderName": "Saphire Queen",
 		"adjective": ["mermaids"],
-		"startBias": ["Ocean"],
+		"startBias": ["Coast","Avoid [Land]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Finally! sand! land! finnaly we can walkind in grass! hahaha! this is perfect!",
 		"startIntroPart2": "Now, we are become great! like in ocean, like in land. Nobody can stop the Queen of Mermaids!",
 		
-		"declaringWar": "*Aggressive monkey sounds!!*",
+		"declaringWar": "The empire needs more land!",
 		"attacked": "Thats is not legal!",
 		"defeated": "Run! Run! Run to Ocean!!",
 		"introduction": "Oh, humans?",
@@ -75,6 +75,6 @@
 			"[+2 Food, +2 Culture] from [Ocean] tiles [in this city]",
 			"[+25]% [Production] [in all coastal cities]",
 			"[+2] Movement <for [Embarked] units>"],
-		"cities": ["Atlantis"]
+		"cities": ["Atlantis","Poseidonia","Waterloo","Oceania","Triton"]
 	}
 ]
