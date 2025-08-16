@@ -74,8 +74,7 @@
 			"[+2 Culture, +1 Science] from [Water] tiles [in this city]",
 			"[60]% Strength <for [Military> <when fighting in [Water] tiles>",
 			"[+2] Sight <for [Embarked] units>",
-			"[+1] Movement <for [Embarked] units>",
-			"[{Military} {Land}] units gain the [Amphibious] promotion"],
+			"[+1] Movement <for [Embarked] units>"],
 		"cities": ["Atlantis","Poseidonia","Waterloo","Oceania","Triton"]
 	}
 ]
