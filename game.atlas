@@ -83,14 +83,14 @@ ImprovementIcons/Plankton Trap
   index: -1
 TileSets/FantasyHex/Tiles/Plankton Farm
   rotate: false
-  xy: 434, 234
+  xy: 434, 236
   size: 32, 32
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plankton Trap
   rotate: false
-  xy: 334, 234
+  xy: 334, 236
   size: 32, 32
   orig: 100, 100
   offset: 0, 0
