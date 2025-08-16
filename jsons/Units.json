@@ -58,6 +58,7 @@
 	{
 		"name": "Mermaid Warrior",
 		"replaces": "Warrior",
+		"uniqueTo": "Mermaid",
 		"unitType": "Sword",
 		"movement" 2,
 		"strength": 9,
