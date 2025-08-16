@@ -54,5 +54,18 @@
 			"Can build [Water] improvements on tiles",
 			"Automation is a primary action"],
 		"cost": 70
+	},
+	{
+		"name": "Mermaid Warrior",
+		"replaces": "Warrior",
+		"unitType": "Sword",
+		"movement" 2,
+		"strength": 9,
+		"cost": 20,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects",
+		"Double movement in [Jungle]"],
+		"attackSound": "nonmetalhit"
 	}
 ]
