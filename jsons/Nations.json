@@ -71,11 +71,11 @@
 		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]> <hidden from users>",
 			"Enables [All] units to enter ocean tiles <starting from the [Ancient era]> <hidden from users>",
 			"Comment [Can enter in Water tiles in inicial game, like Polynesia]",
-			"[+2 Culture] from [Water] tiles [in this city]",
-			"[+3 Science, +2 Happiness] from [Ocean] tiles [in this city]",
+			"[+2 Culture, +1 Science] from [Water] tiles [in this city]",
 			"[60]% Strength <for [Military> <when fighting in [Water] tiles>",
 			"[+2] Sight <for [Embarked] units>"],
-			"[+1] Movement <for [Embarked] units>"],
+			"[+1] Movement <for [Embarked] units>"
+		"[{Military} {Land}] units gain the [Amphibious] promotion"],
 		"cities": ["Atlantis","Poseidonia","Waterloo","Oceania","Triton"]
 	}
 ]
