@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# Unciv-mod-fun
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+this is a joke mod, add some joke (or not) civs and powered and buffed civs, lol.
