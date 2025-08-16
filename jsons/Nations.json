@@ -65,15 +65,15 @@
 		"afterPeace": "This is just begging! hahaha",
 		"tradeRequest": "I hate this... eh... you want commerce?",
 
-		"outerColor": [0,0,220],
-		"innerColor": [0,0,255],
+		"outerColor": [0,182,255],
+		"innerColor": [0,80,197],
 		"uniqueName": "Ocean Queen",
 		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]> <hidden from users>",
 			"Enables [All] units to enter ocean tiles <starting from the [Ancient era]> <hidden from users>",
 			"Comment [Can enter in Water tiles in inicial game, like Polynesia]",
-			"[+1 Food, +2 Culture] from [Coast] tiles [in this city]",
-			"[+2 Food, +3 Culture] from [Ocean] tiles [in this city]",
-			"[+30]% [Production] [in all coastal cities]",
+			"[+1 Culture] from [Coast] tiles [in this city]",
+			"[+2 Food, +2 Culture] from [Ocean] tiles [in this city]",
+			"[+25]% [Production] [in all coastal cities]",
 			"[+2] Movement <for [Embarked] units>"],
 		"cities": ["Atlantis"]
 	}
