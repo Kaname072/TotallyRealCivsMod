@@ -1,7 +1,8 @@
 [
   {
-    "name": "Plankton Farm",
-    "uniqueTo": "Mermaid",
+	  "name": "Plankton Farm",
+	  "replaces": "Farm",
+	  "uniqueTo": "Mermaid",
 	  "terrainsCanBeBuiltOn": ["Grassland","Plains","Snow","Desert"],
 	  "food": 1,
 	  "happiness": 1,
