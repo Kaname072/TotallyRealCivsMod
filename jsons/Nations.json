@@ -76,5 +76,41 @@
 			"[+2] Sight <for [Embarked] units>",
 			"[+1] Movement <for [Embarked] units>"],
 		"cities": ["Atlantis","Poseidonia","Waterloo","Oceania","Triton"]
+	},
+	{
+		"name": "Yeti",
+		"leaderName": "Iceborg",
+		"adjective": ["Yetis"],
+		"startBias": ["Snow","Tundra"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Finally! sand! land! finnaly we can walkind in grass! hahaha! this is perfect!",
+		"startIntroPart2": "Now, we are become great! like in ocean, like in land. Nobody can stop the Queen of Mermaids!",
+		
+		"declaringWar": "The empire needs more land!",
+		"attacked": "Thats is not legal!",
+		"defeated": "Run! Run! Run to Ocean!!",
+		"introduction": "Oh, humans?",
+		
+		"neutralHello": "You?",
+		"neutralLetsHearIt": ["Hey!?"],
+		"neutralNo": ["Nope!"],
+		"neutralYes": ["Of course, yes"],
+
+		"hateHello": "Ah... is you.",
+		"hateLetsHearIt": ["uh?"],
+		"hateNo": ["NO!"],
+		"hateYes": ["Ok."],
+		
+		"afterPeace": "This is just begging! hahaha",
+		"tradeRequest": "I hate this... eh... you want commerce?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,80,255],
+		"uniqueName": "Ocean Queen",
+		"uniques": ["[+2 Food] from [Tundra] tiles [in this city]",
+		"[+1 Food] from [Snow] tiles [in this city]",
+		"[-5 Food] from [{[non]-Tundra} {[non]-Snow}] tiles [in this city]"],
+		"cities":["Alaska","Antártida","Cold Wall","Antártica","Iceberg","Frozen Land","Subzero"]
 	}
 ]
