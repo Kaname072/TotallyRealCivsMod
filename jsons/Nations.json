@@ -72,7 +72,7 @@
 			"Enables [All] units to enter ocean tiles <starting from the [Ancient era]> <hidden from users>",
 			"Comment [Can enter in Water tiles in inicial game, like Polynesia]",
 			"[+2 Culture, +1 Science] from [Water] tiles [in this city]",
-			"[60]% Strength <for [Military> <when fighting in [Water] tiles>",
+			"[60]% Strength <for [Military] units> <when fighting in [Water] tiles>",
 			"[+2] Sight <for [Embarked] units>",
 			"[+1] Movement <for [Embarked] units>"],
 		"cities": ["Atlantis","Poseidonia","Waterloo","Oceania","Triton"]
@@ -106,11 +106,11 @@
 		"tradeRequest": "I hate this... eh... you want commerce?",
 
 		"outerColor": [255,255,255],
-		"innerColor": [0,80,255],
-		"uniqueName": "Ocean Queen",
+		"innerColor": [0,0,255],
+		"uniqueName": "Life in Coldness",
 		"uniques": ["[+2 Food] from [Tundra] tiles [in this city]",
 		"[+1 Food] from [Snow] tiles [in this city]",
-		"[-5 Food] from [{[non]-Tundra} {[non]-Snow}] tiles [in this city]"],
+		"[-5 Food] from [{non-[Tundra]} {non-[Snow]}] tiles [in this city]"],
 		"cities":["Alaska","Antártida","Cold Wall","Antártica","Iceberg","Frozen Land","Subzero"]
 	}
 ]
