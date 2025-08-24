@@ -79,38 +79,39 @@
 	},
 	{
 		"name": "Yeti",
-		"leaderName": "Iceborg",
-		"adjective": ["Yetis"],
+		"leaderName": "Bob, the Yeti",
+		"adjective": ["yetis"],
 		"startBias": ["Snow","Tundra"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "Finally! sand! land! finnaly we can walkind in grass! hahaha! this is perfect!",
-		"startIntroPart2": "Now, we are become great! like in ocean, like in land. Nobody can stop the Queen of Mermaids!",
+		"startIntroPart1": "From the mountains, us, the Yetis race, escape from the starvation. Now, the Yetis finally can found you first city",
+		"startIntroPart2": "Well... is just it! now us we became big? yeah, whatever.",
 		
-		"declaringWar": "The empire needs more land!",
-		"attacked": "Thats is not legal!",
-		"defeated": "Run! Run! Run to Ocean!!",
-		"introduction": "Oh, humans?",
+		"declaringWar": "What this button make?",
+		"attacked": "Hey!",
+		"defeated": "Oh no... our we back to Mountains?",
+		"introduction": "Oh, hello humans.",
 		
-		"neutralHello": "You?",
+		"neutralHello": "Hello! when this i say?",
 		"neutralLetsHearIt": ["Hey!?"],
-		"neutralNo": ["Nope!"],
-		"neutralYes": ["Of course, yes"],
+		"neutralNo": ["No!"],
+		"neutralYes": ["Yes"],
 
-		"hateHello": "Ah... is you.",
-		"hateLetsHearIt": ["uh?"],
-		"hateNo": ["NO!"],
-		"hateYes": ["Ok."],
+		"hateHello": "I dont like you.",
+		"hateLetsHearIt": ["I dont like this"],
+		"hateNo": ["I said no!"],
+		"hateYes": ["Yes."],
 		
-		"afterPeace": "This is just begging! hahaha",
-		"tradeRequest": "I hate this... eh... you want commerce?",
+		"afterPeace": "Sorry for click on this button! i am a noob in here",
+		"tradeRequest": "You have so curious merchants",
 
 		"outerColor": [255,255,255],
-		"innerColor": [0,0,255],
+		"innerColor": [230,230,255],
 		"uniqueName": "Life in Coldness",
 		"uniques": ["[+2 Food] from [Tundra] tiles [in this city]",
-		"[+1 Food] from [Snow] tiles [in this city]",
-		"[-5 Food] from [{non-[Tundra]} {non-[Snow]}] tiles [in this city]"],
-		"cities":["Alaska","Antártida","Cold Wall","Antártica","Iceberg","Frozen Land","Subzero"]
+			"[+1 Food] from [Snow] tiles [in this city]",
+			"Units ignore terrain costs when moving into any tile with Hills",
+			"[-5 Food] from [{non-[Tundra]} {non-[Snow]}] tiles [in this city]"],
+		"cities":["Yeti Mountain","Alaska","Cold Wall","Antartic","Iceberg","Frozen Land","Subzero"]
 	}
 ]
