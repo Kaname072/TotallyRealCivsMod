@@ -30,9 +30,9 @@
 		"outerColor": [0,92,22],
 		"innerColor": [255,255,0],
 		"uniqueName": "1 Gorilla vs 100 Man",
-		"uniques": ["[+5 Food] from [Bananas] tiles [in this city]",
-			"[+5 Happiness] from [Jungle] tiles [in this city]",
-			"[+200]% Strength <when fighting units from a Civilization with more Cities than you>",
+		"uniques": ["[+2 Food] from [Bananas] tiles [in this city]",
+			"[+3 Happiness] from [Jungle] tiles [in this city]",
+			"[+30]% Strength <when fighting units from a Civilization with more Cities than you>",
 		"[+50]% [Food] [in all cities] <during a Golden Age>"]
 		"cities": ["Jungle Capital","Blueberry","Apple","Watermelon","Bananas","Orange","Strawberry","Ananas","Pepper",
 		"Mango","Coconut","Melon","Pineapple","Popcorn"]
@@ -71,8 +71,8 @@
 		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]> <hidden from users>",
 			"Enables [All] units to enter ocean tiles <starting from the [Ancient era]> <hidden from users>",
 			"Comment [Can enter in Water tiles in inicial game, like Polynesia]",
-			"[+2 Culture, +1 Science] from [Water] tiles [in this city]",
-			"[60]% Strength <for [Military] units> <when fighting in [Water] tiles>",
+			"[+1 Culture] from [Water] tiles [in this city]",
+			"[+75]% Strength <for [Military] units> <when fighting in [Water] tiles>",
 			"[+2] Sight <for [Embarked] units>",
 			"[+1] Movement <for [Embarked] units>"],
 		"cities": ["Atlantis","Poseidonia","Waterloo","Oceania","Triton"]
@@ -112,7 +112,8 @@
 			"[+2 Food] from [Snow] tiles [in this city]",
 			"Units ignore terrain costs when moving into any tile with Hills",
 			"Land units may cross [Mountain] tiles",
-			"[-3 Food] from [{non-[Tundra]} {non-[Snow]}] tiles [in this city] <before discovering [Fertilizer] technology>"],
+			"[-3 Food] from [non-Tundra] tiles [in this city] <before discovering [Fertilizer] technology> <hidden from users>",
+			"[-3 Food] from [non-Snow] tiles [in this city] <before discovering [Fertilizer] technology> <hidden from users>",],
 		"cities":["Yeti Mountain","Alaska","Cold Wall","Antartic","Iceberg","Frozen Land","Subzero"]
 	},
 	{
