@@ -54,5 +54,31 @@
 			"Can build [Water] improvements on tiles",
 			"Automation is a primary action"],
 		"cost": 70
+	},
+	{
+		"name": "Amazon Warrior",
+		"replaces": "Warrior",
+		"uniqueTo": "Amazon Nation",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 9,
+		"cost": 25,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Amazonian Lancer",
+		"name": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 13,
+		"cost": 60,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
 	}
 ]
