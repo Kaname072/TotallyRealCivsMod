@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Amazonian Heart",
+		"uniques": ["[+25]% Strength <when fighting in [Forest] tiles>",
+			"[+25]% Strength <when fighting in [Jungle] tiles>",
+			"[+25]% Strength <when fighting in [Marsh] tiles>",
+    	"Double movement in [Forest]",
+			"Double movement in [Jungle]",
+			"Double movement in [Marsh]"],
+		"unitTypes": ["Sword","Ranged"],
+  }
+]
