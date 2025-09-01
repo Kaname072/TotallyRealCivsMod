@@ -144,10 +144,12 @@
 		"tradeRequest": "You... argh...you can accept this offer?",
 
 		"outerColor": [0,16,0],
-		"innerColor": [0,116,0],"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Faith]",
-			"[+50]% [Faith] [in all cities] <during a Golden Age>",
+		"innerColor": [0,116,0],
+		
+		"uniqueName": "Amazonian Discipline",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Food]",
+			"[{Military} {Sword}] units gain the [Amazonian Heart] promotion",
 			"Cities are razed [2] times as fast"],
-		"cities": [
-			}
+		"cities": ["Amazonian Camp"]
+	}
 ]
