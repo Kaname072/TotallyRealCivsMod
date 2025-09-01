@@ -25,6 +25,7 @@
 	{
 		"name": "Hephaestus Forge",
 		"replaces": "Aqueduct",
+		"uniqueTo": "Amazon Nation",
 		"maintenance": 1,
 		"culture": 2,
 		"hurryCostModifier": 0,
