@@ -104,7 +104,7 @@ BuildingIcons/Bananas Museum
   index: -1
 BuildingIcons/Hephaestus Forge
   rotate: false
-  xy: 200, 300
+  xy: 100, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
