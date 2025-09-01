@@ -1,5 +1,5 @@
 
-game2.png
+game3.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -14,6 +14,20 @@ NationIcons/Monkey Nation
 NationIcons/Mermaid
   rotate: false
   xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Amazon Nation
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Yeti
+  rotate: false
+  xy: 300, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -74,24 +88,10 @@ BuildingIcons/Bananas Museum
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Plankton Farm
-  rotate: false
-  xy: 200, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 ImprovementIcons/Plankton Trap
   rotate: false
   xy: 200, 200
   size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Plankton Farm
-  rotate: false
-  xy: 434, 232
-  size: 32, 32
   orig: 100, 100
   offset: 0, 0
   index: -1
