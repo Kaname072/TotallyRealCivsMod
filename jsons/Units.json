@@ -70,7 +70,8 @@
 	},
 	{
 		"name": "Amazonian Lancer",
-		"name": "Spearman",
+		"replaces": "Spearman",
+		"uniqueTo": "Amazon Nation",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 13,
