@@ -114,5 +114,40 @@
 			"Land units may cross [Mountain] tiles",
 			"[-3 Food] from [{non-[Tundra]} {non-[Snow]}] tiles [in this city] <before discovering [Fertilizer] technology>"],
 		"cities":["Yeti Mountain","Alaska","Cold Wall","Antartic","Iceberg","Frozen Land","Subzero"]
-	}
+	},
+	{
+		"name": "Amazon Nation",
+		"leaderName": "Cassandra II",
+		"adjective": ["amazons"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Oh, Great Queen Cassandra II! You power and glorious army of true and strong amazon womens will show all of this mans how to make a empire!",
+		"startIntroPart2": "C'mon! we dont need a crown to show them, you just need you muscles and discipline!",
+		
+		"declaringWar": "The Amazonian Womens will smash our Mens!",
+		"attacked": "You want problems? you will gain problems!",
+		"defeated": "This is imposiple! how us lose, to a MAN!",
+		"introduction": "Oh, hello! our mens is strong?",
+		
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": ["You need something?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes.","Thats good for us"],
+
+		"hateHello": "I dont wanna talk with you.",
+		"hateLetsHearIt": ["What's going now?!"],
+		"hateNo": ["I said and continous saying, NO!"],
+		"hateYes": ["That is fine."],
+		
+		"afterPeace": "Wait me! i'll we back again!",
+		"tradeRequest": "You... argh...you can accept this offer?",
+
+		"outerColor": [0,16,0],
+		"innerColor": [0,116,0],"uniqueName": "Dragon of Wallachia",
+		"uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Faith]",
+			"[+50]% [Faith] [in all cities] <during a Golden Age>",
+			"Cities are razed [2] times as fast"],
+		"cities": [
+			}
 ]
