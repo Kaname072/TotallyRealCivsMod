@@ -143,13 +143,14 @@
 		"afterPeace": "Wait me! i'll we back again!",
 		"tradeRequest": "You... argh...you can accept this offer?",
 
-		"outerColor": [0,16,0],
+		"outerColor": [0,66,0],
 		"innerColor": [0,116,0],
 		
-		"uniqueName": "Amazonian Discipline",
+		"uniqueName": "Amazonian Production",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Food]",
-			"[{Military} {Sword}] units gain the [Amazonian Heart] promotion",
-			"Cities are razed [2] times as fast"],
+			"[-50]% growth [in all cities]",
+			"[{Military} {Sword}] units gain the [Amazonian Discipline] promotion",
+			"[{Military} {Ranged}] units gain the [Amazonian Discipline] promotion"],
 		"cities": ["Amazonian Camp"]
 	}
 ]
