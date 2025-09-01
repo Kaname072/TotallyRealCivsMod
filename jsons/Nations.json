@@ -111,16 +111,16 @@
 		"uniques": ["[+3 Food] from [Tundra] tiles [in this city]",
 			"[+2 Food] from [Snow] tiles [in this city]",
 			"Units ignore terrain costs when moving into any tile with Hills",
-			"Land units may cross [Mountain] tiles",
-			"[-3 Food] from [non-Tundra] tiles [in this city] <before discovering [Fertilizer] technology> <hidden from users>",
-			"[-3 Food] from [non-Snow] tiles [in this city] <before discovering [Fertilizer] technology> <hidden from users>",],
+			"[-5 Food] from [non-Tundra] tiles [in this city] <before discovering [Fertilizer] technology> <hidden from users>",
+			"[-5 Food] from [non-Snow] tiles [in this city] <before discovering [Fertilizer] technology> <hidden from users>",
+			"Comment [-100% of food in Non Tundra or Snow tiles before Fertilizer technology]"],
 		"cities":["Yeti Mountain","Alaska","Cold Wall","Antartic","Iceberg","Frozen Land","Subzero"]
 	},
 	{
 		"name": "Amazon Nation",
 		"leaderName": "Cassandra II",
 		"adjective": ["amazons"],
-		"startBias": ["Jungle"],
+		"startBias": ["Coast","Jungle"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Oh, Great Queen Cassandra II! You power and glorious army of true and strong amazon womens will show all of this mans how to make a empire!",
@@ -144,14 +144,14 @@
 		"afterPeace": "Wait me! i'll we back again!",
 		"tradeRequest": "You... argh...you can accept this offer?",
 
-		"outerColor": [0,66,0],
-		"innerColor": [0,116,0],
+		"outerColor": [0,116,0],
+		"innerColor": [0,66,0],
 		
 		"uniqueName": "Amazonian Production",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Food]",
 			"[-50]% growth [in all cities]",
 			"[{Military} {Sword}] units gain the [Amazonian Discipline] promotion",
 			"[{Military} {Ranged}] units gain the [Amazonian Discipline] promotion"],
-		"cities": ["Amazonian Camp"]
+		"cities": ["Amazonian Island","Amazonian Campment","Amazonian Ville","Amazonian Forest","Herfesto Forge"]
 	}
 ]
